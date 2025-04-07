@@ -4,8 +4,8 @@ import "./globals.css"
 
 export const metadata: Metadata = {
   title: "Ashton Hall Coins",
-  description: "Created with v0",
-  generator: "v0.dev",
+  description: "Ashton Hall",
+  generator: "Ashton Hall Coins",
   icons: {
     icon: '/images/ashton.jpeg',
     apple: '/images/ashton.jpeg',
