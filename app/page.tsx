@@ -341,7 +341,7 @@ export default function Home() {
               <h3 className="text-xl font-bold text-pink-400 mb-5 text-center">Token Address:</h3>
               <div className="flex items-center justify-between bg-black/80 p-4 rounded-lg border border-pink-500/10">
                 <code className="text-white/90 text-sm md:text-base overflow-x-auto font-mono">
-                  3ceg02WzuCvpdQrGbnd8pGKoQEK2U5C3hg24Lvsppump
+                  5DXhLoSLJBaH2mx1AsPgqfvPXEgZXEftpC6GZB9xpump
                 </code>
                 <CopyButton textToCopy="3ceg02WzuCvpdQrGbnd8pGKoQEK2U5C3hg24Lvsppump" />
               </div>
