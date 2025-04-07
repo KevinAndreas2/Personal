@@ -4,8 +4,12 @@ import "./globals.css"
 
 export const metadata: Metadata = {
   title: "Ashton Hall Coins",
-  description: "Created by Ashton Hall",
-  generator: "Ashton",
+  description: "Created with v0",
+  generator: "v0.dev",
+  icons: {
+    icon: '/images/ashton.jpeg',
+    apple: '/images/ashton.jpeg',
+  }
 }
 
 export default function RootLayout({
